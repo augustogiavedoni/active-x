@@ -41,7 +41,7 @@ const data = {
     },
     {
       title: "Exercises",
-      url: "#",
+      url: "/dashboard/exercises",
       icon: BookTextIcon,
     },
     {

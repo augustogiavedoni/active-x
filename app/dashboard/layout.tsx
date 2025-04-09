@@ -20,7 +20,6 @@ export default async function Layout({
       <AppSidebar variant="inset" />
       <SidebarInset>
         <main>
-          <SidebarTrigger />
           {children}
         </main>
       </SidebarInset>
