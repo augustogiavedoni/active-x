@@ -31,7 +31,7 @@ const data = {
   navMain: [
     {
       title: "Dashboard",
-      url: "#",
+      url: "/dashboard",
       icon: LayoutDashboardIcon,
     },
     {
@@ -41,7 +41,7 @@ const data = {
     },
     {
       title: "Exercises",
-      url: "/dashboard/exercises",
+      url: "/exercises",
       icon: BookTextIcon,
     },
     {
